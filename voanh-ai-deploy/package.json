@@ -1,0 +1,13 @@
+{
+  "name": "voanh-ai",
+  "version": "4.0.0",
+  "private": true,
+  "description": "VOANH AI - secure Mistral-powered personal AI platform",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
